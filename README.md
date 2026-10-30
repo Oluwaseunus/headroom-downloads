@@ -8,19 +8,9 @@ Official installer downloads and release notes for Headroom, a native macOS util
 
 Requires macOS 15 or later. Open the disk image and drag Headroom into Applications.
 
-This is a Developer ID signed preview and is not notarized. See the [release notes](https://github.com/Oluwaseunus/headroom-downloads/releases/tag/v0.4.0) for compatibility and permission details. Each release includes a SHA-256 checksum.
+See the [release notes](https://github.com/Oluwaseunus/headroom-downloads/releases/tag/v0.4.0) for compatibility and permission details. Each release includes a SHA-256 checksum.
 
 This repository distributes installers and release notes only.
-
-## Download counts
-
-GitHub records downloads per installer asset. To inspect counts with the GitHub CLI:
-
-```sh
-gh api --paginate repos/Oluwaseunus/headroom-downloads/releases --jq '.[] | .tag_name as $version | .assets[] | select(.name | endswith(".dmg")) | [$version, .name, .download_count] | @tsv'
-```
-
-Counts include repeat downloads and verification downloads; they do not represent unique users or confirmed installations.
 
 ## Contact
 
