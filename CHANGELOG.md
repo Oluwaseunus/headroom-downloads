@@ -1,5 +1,16 @@
 # Release notes
 
+## 0.4.0 · Build 7
+
+Headroom 0.4.0, build 7, for Apple Silicon Macs running macOS 15 or later.
+
+- App and installer are notarized by Apple, with stapled tickets for offline verification.
+- Includes per-app fullscreen menu bar rules, a configurable global keyboard shortcut, and native Settings.
+
+Download `Headroom.dmg`, open it, and drag Headroom into Applications. Enable Accessibility access in Settings to use automatic fullscreen app rules.
+
+`SHA256SUMS.txt` contains the installer checksum.
+
 ## 0.4.0 — Apple Silicon preview
 
 Headroom 0.4.0 is an Apple Silicon preview for macOS 15 or later.
