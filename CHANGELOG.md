@@ -1,5 +1,17 @@
 # Release notes
 
+## 0.4.0 · Build 8
+
+Headroom 0.4.0, build 8, for Apple Silicon Macs running macOS 15 or later.
+
+- New app icon.
+- Refreshed installer window background.
+- App and installer are notarized by Apple, with stapled tickets for offline verification.
+
+Download `Headroom.dmg`, open it, and drag Headroom into Applications. Enable Accessibility access in Settings to use automatic fullscreen app rules.
+
+`SHA256SUMS.txt` contains the installer checksum.
+
 ## 0.4.0 · Build 7
 
 Headroom 0.4.0, build 7, for Apple Silicon Macs running macOS 15 or later.
