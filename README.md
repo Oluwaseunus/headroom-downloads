@@ -4,11 +4,11 @@ Official installer downloads and release notes for Headroom, a native macOS util
 
 ## Download
 
-[Download Headroom 0.5.0 for Apple Silicon](https://github.com/Oluwaseunus/headroom-downloads/releases/download/v0.5.0-build9/Headroom.dmg)
+[Download Headroom 0.5.0 for Apple Silicon](https://github.com/Oluwaseunus/headroom-downloads/releases/download/v0.5.0-build10/Headroom.dmg)
 
 Requires macOS 15 or later. Open the disk image and drag Headroom into Applications.
 
-See the [release notes](https://github.com/Oluwaseunus/headroom-downloads/releases/tag/v0.5.0-build9) for compatibility and permission details. Each release includes a SHA-256 checksum.
+See the [release notes](https://github.com/Oluwaseunus/headroom-downloads/releases/tag/v0.5.0-build10) for compatibility and permission details. Each release includes a SHA-256 checksum.
 
 This repository distributes installers and release notes only.
 
