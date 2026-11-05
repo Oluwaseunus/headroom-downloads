@@ -1,11 +1,12 @@
 # Release notes
 
-## 0.5.0 · Build 9
+## 0.5.0 · Build 10
 
-Headroom 0.5.0, build 9, for Apple Silicon Macs running macOS 15 or later.
+Headroom 0.5.0, build 10, for Apple Silicon Macs running macOS 15 or later.
 
 - A welcome guide on first launch walks through the optional permission and Open at Login, lets you try the ⌃⌥M shortcut or record your own, and, with the permission allowed, add per-app rules.
 - Redesigned Settings, in a dark look that matches the welcome guide.
+- A new About window, with links to the website and to get in touch.
 - Redesigned menu: choose when the menu bar hides in all apps, or, from a full-screen app, in that app.
 - The shortcut now reverses what you see: a visible menu bar hides, and a hidden one comes back.
 - App rules still win in full screen. Pressing the shortcut three times quickly there explains which rule is in control and where to change it.
